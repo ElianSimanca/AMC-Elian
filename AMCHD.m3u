@@ -11,3 +11,11 @@ http://89.105.194.59:25461/live/4movF$0!!/4movF$0!!/11.m3u8
 #EXTINF:-3 , AMCHD2
 
 https://espare.tk/live/amc_lat.m3u8?token=TEHS95DzsgKn9M93--QQFQ&expires=1603731876
+
+#EXTINF:-4 , HBOHD
+
+http://blackaddon.com/scr/ver.php?c=84&f=.m3u8
+
+#EXTINF:-5 , HBOHD2
+
+https://micine.club/84/fastcgi.m3u8
