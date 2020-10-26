@@ -1,0 +1,9 @@
+#EXTM3U
+
+#EXTINF:-1 , AMC
+
+https://tompa2.mitopo.me/live/amc/index.m3u8?token=GlWrwcIkQjctXXJmfpABRw&expires=1603769737
+
+#EXTINF:-2 , AMCLATINOHD
+
+https://espare.tk/live/amc_lat.m3u8?token=6UUtYdf53F5rEM-knsMSRQ&expires=1603710130
